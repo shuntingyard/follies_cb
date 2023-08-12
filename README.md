@@ -1,7 +1,5 @@
-# Try Out Development Containers: Python
+# Twitter OAuth 1 Example App 
 
-To run on Codespaces...
+Configured to run on Codespaces... see GitHub's [docs](https://docs.github.com/en/codespaces) for details.
 
-## Stolen from
-
-<https://github.com/twitterdev/twauth-web.git>
+Code stolen from <https://github.com/twitterdev/twauth-web.git>.
